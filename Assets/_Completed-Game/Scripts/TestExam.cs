@@ -7,8 +7,8 @@ public class TestExam : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		Debug.LogError ("11111111");
-Debug.LogError ("guanrui");
-Debug.LogError ("guanrui_work");
+            Debug.LogError ("guanrui");
+            Debug.LogError ("guanrui_work");
 	}
 	
 	// Update is called once per frame
