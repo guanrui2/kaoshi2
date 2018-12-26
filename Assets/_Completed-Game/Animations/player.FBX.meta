@@ -1,0 +1,418 @@
+fileFormatVersion: 2
+guid: 8eca1723489a1475f88dc18b1e7e3ed9
+timeCreated: 1545295677
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bip001
+    100002: Bip001 Head
+    100004: Bip001 L Calf
+    100006: Bip001 L Clavicle
+    100008: Bip001 L Finger0
+    100010: Bip001 L Finger01
+    100012: Bip001 L Finger02
+    100014: Bip001 L Finger1
+    100016: Bip001 L Finger11
+    100018: Bip001 L Finger12
+    100020: Bip001 L Finger2
+    100022: Bip001 L Finger21
+    100024: Bip001 L Finger22
+    100026: Bip001 L Finger3
+    100028: Bip001 L Finger31
+    100030: Bip001 L Finger32
+    100032: Bip001 L Finger4
+    100034: Bip001 L Finger41
+    100036: Bip001 L Finger42
+    100038: Bip001 L Foot
+    100040: Bip001 L Forearm
+    100042: Bip001 L ForeTwist
+    100044: Bip001 L ForeTwist1
+    100046: Bip001 L ForeTwist2
+    100048: Bip001 L Hand
+    100050: Bip001 L Thigh
+    100052: Bip001 L Toe0
+    100054: Bip001 L Toe01
+    100056: Bip001 L UpperArm
+    100058: Bip001 LCalfTwist
+    100060: Bip001 LCalfTwist1
+    100062: Bip001 LCalfTwist2
+    100064: Bip001 LThighTwist
+    100066: Bip001 LThighTwist1
+    100068: Bip001 LThighTwist2
+    100070: Bip001 LUpArmTwist
+    100072: Bip001 LUpArmTwist1
+    100074: Bip001 LUpArmTwist2
+    100076: Bip001 Neck
+    100078: Bip001 Neck1
+    100080: Bip001 Pelvis
+    100082: Bip001 R Calf
+    100084: Bip001 R Clavicle
+    100086: Bip001 R Finger0
+    100088: Bip001 R Finger01
+    100090: Bip001 R Finger02
+    100092: Bip001 R Finger1
+    100094: Bip001 R Finger11
+    100096: Bip001 R Finger12
+    100098: Bip001 R Finger2
+    100100: Bip001 R Finger21
+    100102: Bip001 R Finger22
+    100104: Bip001 R Finger3
+    100106: Bip001 R Finger31
+    100108: Bip001 R Finger32
+    100110: Bip001 R Finger4
+    100112: Bip001 R Finger41
+    100114: Bip001 R Finger42
+    100116: Bip001 R Foot
+    100118: Bip001 R Forearm
+    100120: Bip001 R ForeTwist
+    100122: Bip001 R ForeTwist1
+    100124: Bip001 R ForeTwist2
+    100126: Bip001 R Hand
+    100128: Bip001 R Thigh
+    100130: Bip001 R Toe0
+    100132: Bip001 R Toe01
+    100134: Bip001 R UpperArm
+    100136: Bip001 RCalfTwist
+    100138: Bip001 RCalfTwist1
+    100140: Bip001 RCalfTwist2
+    100142: Bip001 RThighTwist
+    100144: Bip001 RThighTwist1
+    100146: Bip001 RThighTwist2
+    100148: Bip001 RUpArmTwist
+    100150: Bip001 RUpArmTwist1
+    100152: Bip001 RUpArmTwist2
+    100154: Bip001 Spine
+    100156: Bip001 Spine1
+    100158: Bip001 Spine2
+    100160: body
+    100162: Bone_brow
+    100164: Bone_brow(mirrored)
+    100166: Bone_brow001
+    100168: Bone_brow001(mirrored)
+    100170: Bone_brow002
+    100172: Bone_brow002(mirrored)
+    100174: Bone_chin
+    100176: Bone_eye00
+    100178: Bone_eye00(mirrored)
+    100180: Bone_eye00_01
+    100182: Bone_eye00_01(mirrored)
+    100184: Bone_eye01
+    100186: Bone_eye01(mirrored)
+    100188: Bone_eye01_01
+    100190: Bone_eye01_01(mirrored)
+    100192: Bone_eye01_02
+    100194: Bone_eye01_02(mirrored)
+    100196: Bone_eye02
+    100198: Bone_eye02(mirrored)
+    100200: Bone_eye02_01
+    100202: Bone_eye02_01(mirrored)
+    100204: Bone_eye02_02
+    100206: Bone_eye02_02(mirrored)
+    100208: Bone_eye03
+    100210: Bone_eye03(mirrored)
+    100212: Bone_eye03_01
+    100214: Bone_eye03_01(mirrored)
+    100216: Bone_eye03_02
+    100218: Bone_eye03_02(mirrored)
+    100220: Bone_eye04
+    100222: Bone_eye04(mirrored)
+    100224: Bone_eye04_01
+    100226: Bone_eye04_01(mirrored)
+    100228: Bone_eye05
+    100230: Bone_eye05(mirrored)
+    100232: Bone_eye06
+    100234: Bone_eye06(mirrored)
+    100236: Bone_eye_l
+    100238: Bone_eye_r
+    100240: Bone_face
+    100242: Bone_face(mirrored)
+    100244: Bone_mouth00
+    100246: Bone_mouth01
+    100248: Bone_mouth01(mirrored)
+    100250: Bone_mouth02
+    100252: Bone_mouth02(mirrored)
+    100254: Bone_mouth03
+    100256: Bone_mouth03(mirrored)
+    100258: Bone_mouth04
+    100260: Bone_she00
+    100262: Bone_she01
+    100264: Bone_she02
+    100266: Bone_she03
+    100268: Bone_she04
+    100270: Bone_tooth
+    100272: Bone_tooth01
+    100274: Dummy_chin
+    100276: eye_l
+    100278: eye_r
+    100280: eyeball
+    100282: eyebrow
+    100284: eyelash
+    100286: head
+    100288: //RootNode
+    100290: Rectangle001
+    100292: tooth
+    400000: Bip001
+    400002: Bip001 Head
+    400004: Bip001 L Calf
+    400006: Bip001 L Clavicle
+    400008: Bip001 L Finger0
+    400010: Bip001 L Finger01
+    400012: Bip001 L Finger02
+    400014: Bip001 L Finger1
+    400016: Bip001 L Finger11
+    400018: Bip001 L Finger12
+    400020: Bip001 L Finger2
+    400022: Bip001 L Finger21
+    400024: Bip001 L Finger22
+    400026: Bip001 L Finger3
+    400028: Bip001 L Finger31
+    400030: Bip001 L Finger32
+    400032: Bip001 L Finger4
+    400034: Bip001 L Finger41
+    400036: Bip001 L Finger42
+    400038: Bip001 L Foot
+    400040: Bip001 L Forearm
+    400042: Bip001 L ForeTwist
+    400044: Bip001 L ForeTwist1
+    400046: Bip001 L ForeTwist2
+    400048: Bip001 L Hand
+    400050: Bip001 L Thigh
+    400052: Bip001 L Toe0
+    400054: Bip001 L Toe01
+    400056: Bip001 L UpperArm
+    400058: Bip001 LCalfTwist
+    400060: Bip001 LCalfTwist1
+    400062: Bip001 LCalfTwist2
+    400064: Bip001 LThighTwist
+    400066: Bip001 LThighTwist1
+    400068: Bip001 LThighTwist2
+    400070: Bip001 LUpArmTwist
+    400072: Bip001 LUpArmTwist1
+    400074: Bip001 LUpArmTwist2
+    400076: Bip001 Neck
+    400078: Bip001 Neck1
+    400080: Bip001 Pelvis
+    400082: Bip001 R Calf
+    400084: Bip001 R Clavicle
+    400086: Bip001 R Finger0
+    400088: Bip001 R Finger01
+    400090: Bip001 R Finger02
+    400092: Bip001 R Finger1
+    400094: Bip001 R Finger11
+    400096: Bip001 R Finger12
+    400098: Bip001 R Finger2
+    400100: Bip001 R Finger21
+    400102: Bip001 R Finger22
+    400104: Bip001 R Finger3
+    400106: Bip001 R Finger31
+    400108: Bip001 R Finger32
+    400110: Bip001 R Finger4
+    400112: Bip001 R Finger41
+    400114: Bip001 R Finger42
+    400116: Bip001 R Foot
+    400118: Bip001 R Forearm
+    400120: Bip001 R ForeTwist
+    400122: Bip001 R ForeTwist1
+    400124: Bip001 R ForeTwist2
+    400126: Bip001 R Hand
+    400128: Bip001 R Thigh
+    400130: Bip001 R Toe0
+    400132: Bip001 R Toe01
+    400134: Bip001 R UpperArm
+    400136: Bip001 RCalfTwist
+    400138: Bip001 RCalfTwist1
+    400140: Bip001 RCalfTwist2
+    400142: Bip001 RThighTwist
+    400144: Bip001 RThighTwist1
+    400146: Bip001 RThighTwist2
+    400148: Bip001 RUpArmTwist
+    400150: Bip001 RUpArmTwist1
+    400152: Bip001 RUpArmTwist2
+    400154: Bip001 Spine
+    400156: Bip001 Spine1
+    400158: Bip001 Spine2
+    400160: body
+    400162: Bone_brow
+    400164: Bone_brow(mirrored)
+    400166: Bone_brow001
+    400168: Bone_brow001(mirrored)
+    400170: Bone_brow002
+    400172: Bone_brow002(mirrored)
+    400174: Bone_chin
+    400176: Bone_eye00
+    400178: Bone_eye00(mirrored)
+    400180: Bone_eye00_01
+    400182: Bone_eye00_01(mirrored)
+    400184: Bone_eye01
+    400186: Bone_eye01(mirrored)
+    400188: Bone_eye01_01
+    400190: Bone_eye01_01(mirrored)
+    400192: Bone_eye01_02
+    400194: Bone_eye01_02(mirrored)
+    400196: Bone_eye02
+    400198: Bone_eye02(mirrored)
+    400200: Bone_eye02_01
+    400202: Bone_eye02_01(mirrored)
+    400204: Bone_eye02_02
+    400206: Bone_eye02_02(mirrored)
+    400208: Bone_eye03
+    400210: Bone_eye03(mirrored)
+    400212: Bone_eye03_01
+    400214: Bone_eye03_01(mirrored)
+    400216: Bone_eye03_02
+    400218: Bone_eye03_02(mirrored)
+    400220: Bone_eye04
+    400222: Bone_eye04(mirrored)
+    400224: Bone_eye04_01
+    400226: Bone_eye04_01(mirrored)
+    400228: Bone_eye05
+    400230: Bone_eye05(mirrored)
+    400232: Bone_eye06
+    400234: Bone_eye06(mirrored)
+    400236: Bone_eye_l
+    400238: Bone_eye_r
+    400240: Bone_face
+    400242: Bone_face(mirrored)
+    400244: Bone_mouth00
+    400246: Bone_mouth01
+    400248: Bone_mouth01(mirrored)
+    400250: Bone_mouth02
+    400252: Bone_mouth02(mirrored)
+    400254: Bone_mouth03
+    400256: Bone_mouth03(mirrored)
+    400258: Bone_mouth04
+    400260: Bone_she00
+    400262: Bone_she01
+    400264: Bone_she02
+    400266: Bone_she03
+    400268: Bone_she04
+    400270: Bone_tooth
+    400272: Bone_tooth01
+    400274: Dummy_chin
+    400276: eye_l
+    400278: eye_r
+    400280: eyeball
+    400282: eyebrow
+    400284: eyelash
+    400286: head
+    400288: //RootNode
+    400290: Rectangle001
+    400292: tooth
+    4300000: body
+    4300002: eyebrow
+    4300004: eyeball
+    4300006: eyelash
+    4300008: tooth
+    4300010: head
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: body
+    13700002: eyeball
+    13700004: eyebrow
+    13700006: eyelash
+    13700008: head
+    13700010: tooth
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #441'
+    second: {fileID: 2100000, guid: 5e7e664c56d20451c8d5a46d6642a13c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #67111185'
+    second: {fileID: 2100000, guid: 7cef4a7451a514f47b2e498fa1712d7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #67111186'
+    second: {fileID: 2100000, guid: 29eb08772c8ed47dda93d97800847bc5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #67111189'
+    second: {fileID: 2100000, guid: f770f079fe8b1484289786144c28010e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #67111195'
+    second: {fileID: 2100000, guid: 2f33f6b16254a4bf6b0320131a8fc68a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
