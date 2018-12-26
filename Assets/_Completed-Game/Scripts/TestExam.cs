@@ -8,6 +8,7 @@ public class TestExam : MonoBehaviour {
 	void Start () {
 		Debug.LogError ("11111111");
 Debug.LogError ("guanrui");
+Debug.LogError ("guanrui_work");
 	}
 	
 	// Update is called once per frame
